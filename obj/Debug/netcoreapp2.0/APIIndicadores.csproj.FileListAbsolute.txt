@@ -1,0 +1,10 @@
+C:\Lucas\Projetos\APIIndicadores\bin\Debug\netcoreapp2.0\APIIndicadores.deps.json
+C:\Lucas\Projetos\APIIndicadores\bin\Debug\netcoreapp2.0\APIIndicadores.runtimeconfig.json
+C:\Lucas\Projetos\APIIndicadores\bin\Debug\netcoreapp2.0\APIIndicadores.runtimeconfig.dev.json
+C:\Lucas\Projetos\APIIndicadores\bin\Debug\netcoreapp2.0\APIIndicadores.dll
+C:\Lucas\Projetos\APIIndicadores\bin\Debug\netcoreapp2.0\APIIndicadores.pdb
+C:\Lucas\Projetos\APIIndicadores\obj\Debug\netcoreapp2.0\APIIndicadores.csproj.CoreCompileInputs.cache
+C:\Lucas\Projetos\APIIndicadores\obj\Debug\netcoreapp2.0\APIIndicadores.AssemblyInfoInputs.cache
+C:\Lucas\Projetos\APIIndicadores\obj\Debug\netcoreapp2.0\APIIndicadores.AssemblyInfo.cs
+C:\Lucas\Projetos\APIIndicadores\obj\Debug\netcoreapp2.0\APIIndicadores.dll
+C:\Lucas\Projetos\APIIndicadores\obj\Debug\netcoreapp2.0\APIIndicadores.pdb
